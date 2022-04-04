@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Messias Viana 👋
 
-
-- 🔭 Hoje estou trabalhando com front-end
-- 🌱 Estudando ReactJS
+- 🌱 Estudando ReactJS e Javascrpit
 - 💬 Contato: messiasdeviana@gmail.com
 
 ##
