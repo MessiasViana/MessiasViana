@@ -20,7 +20,12 @@
       "tráfego_pago": ["Google ADS", "Facebook ADS"],
       "SEO": true
     },
-    "banco_de_dados": ["MongoDB", "PostgreSQL", "Oracle Database"]
+    "banco_de_dados": ["MongoDB", "PostgreSQL", "Oracle Database"],
+    "faculdade": {
+        "nome": "Faculdade de Informática e Administração Paulista - FIAP",
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "período": "2023 - 2024"
+    }
   }
 }
 ```
